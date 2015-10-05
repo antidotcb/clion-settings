@@ -1,0 +1,21 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File 'E:\heritage\src\heritage\common.h'" />
+    <option name="defaultScopeName" value="File 'E:\heritage\src\heritage\common.h'" />
+    <option name="SEARCH_SCOPE" value="File 'E:\heritage\src\heritage\common.h'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>CMakeLists.txt</mask>
+      <mask>*.cpp,*.h</mask>
+      <mask>*.h</mask>
+    </recentFileMasks>
+  </component>
+</application>

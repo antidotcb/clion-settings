@@ -1,0 +1,54 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>C/C++</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CPPToolchains">
+    <option name="detectedVersion" value="4" />
+    <option name="minGWHomePath" value="C:\msys64\mingw64" />
+    <option name="winEnvironment" value="MINGW" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>df92df98dfc8df93df9fdfc8df92df9adf98df9ddfcfdf9bdf9ddf9adfcbdf92dfc8df93df92dfcbdf9ddf99df9cdfcbdf9edfccdf9fdf92df99df99dfcfdf99dfccdf9adf93df93dfcbdfc9df93df92</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="antidotcb" />
+      <option name="repoName" value="heritage" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+    <JIRA shared="false" url="http://jira.eglobal-forex.com">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfc9dfc4dff9dfd9dfe0dff3dfd3dfd9dfe2df92dff8dfc9</password>
+      <option name="jiraVersion" value="6.4.9" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>danibily</username>
+    </JIRA>
+  </component>
+</application>

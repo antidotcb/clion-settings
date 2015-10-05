@@ -1,0 +1,29 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f4" />
+  </action>
+  <action id="InspectCode">
+    <mouse-shortcut keystroke="shift control button5" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Tool_External Tools_cpplint">
+    <mouse-shortcut keystroke="shift control button4" />
+  </action>
+  <action id="linessorter.sort">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+</keymap>
