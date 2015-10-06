@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'D:\heritage\src\MainScene.cpp'" />
-    <option name="defaultScopeName" value="File 'D:\heritage\src\MainScene.cpp'" />
-    <option name="SEARCH_SCOPE" value="File 'D:\heritage\src\MainScene.cpp'" />
+    <option name="customScope" value="Directory 'D:\heritage\src'" />
+    <option name="defaultScopeName" value="Directory 'D:\heritage\src'" />
+    <option name="SEARCH_SCOPE" value="Directory 'D:\heritage\src'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
