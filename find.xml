@@ -3,6 +3,7 @@
     <option name="customScope" value="Directory 'D:\heritage\src'" />
     <option name="defaultScopeName" value="Directory 'D:\heritage\src'" />
     <option name="SEARCH_SCOPE" value="Directory 'D:\heritage\src'" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,6 +17,7 @@
       <mask>CMakeLists.txt</mask>
       <mask>*.cpp,*.h</mask>
       <mask>*.h</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
