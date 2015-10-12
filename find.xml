@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'D:\heritage\src\MainScene.cpp'" />
-    <option name="defaultScopeName" value="File 'D:\heritage\src\MainScene.cpp'" />
-    <option name="SEARCH_SCOPE" value="File 'D:\heritage\src\MainScene.cpp'" />
+    <option name="customScope" value="File 'D:\heritage\src\heritage\PlacementControl.cpp'" />
+    <option name="defaultScopeName" value="File 'D:\heritage\src\heritage\PlacementControl.cpp'" />
+    <option name="SEARCH_SCOPE" value="File 'D:\heritage\src\heritage\PlacementControl.cpp'" />
     <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
