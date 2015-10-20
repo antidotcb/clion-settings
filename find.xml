@@ -1,8 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'E:\heritage\src'" />
-    <option name="defaultScopeName" value="Directory 'E:\heritage\src'" />
-    <option name="SEARCH_SCOPE" value="Directory 'E:\heritage\src'" />
+    <option name="customScope" value="File 'D:\heritage\src\heritage\PlacementControl.cpp'" />
+    <option name="defaultScopeName" value="File 'D:\heritage\src\heritage\PlacementControl.cpp'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="File 'D:\heritage\src\heritage\PlacementControl.cpp'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,6 +20,7 @@
       <mask>CMakeLists.txt</mask>
       <mask>*.cpp,*.h</mask>
       <mask>*.h</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
