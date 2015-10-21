@@ -60,10 +60,9 @@
   </XML>
   <codeStyleSettings language="ObjectiveC">
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
-    <option name="BLANK_LINES_AROUND_CLASS" value="2" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="BLANK_LINES_AROUND_METHOD" value="2" />
-    <option name="BLANK_LINES_AROUND_FIELD_IN_INTERFACE" value="1" />
+    <option name="BLANK_LINES_AROUND_METHOD_IN_INTERFACE" value="0" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="4" />
     <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="WHILE_ON_NEW_LINE" value="true" />
