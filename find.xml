@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File 'D:\heritage\src\heritage\PlacementControl.cpp'" />
-    <option name="defaultScopeName" value="File 'D:\heritage\src\heritage\PlacementControl.cpp'" />
+    <option name="customScope" value="File 'C:\work\mt4_bridge\src\mt4_libs\plugin\Mt4RequestsCache.h'" />
+    <option name="defaultScopeName" value="File 'C:\work\mt4_bridge\src\mt4_libs\plugin\Mt4RequestsCache.h'" />
     <option name="localRegularExpressions" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'D:\heritage\src\heritage\PlacementControl.cpp'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\work\mt4_bridge\src\mt4_libs\plugin\Mt4RequestsCache.h'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
