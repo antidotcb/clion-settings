@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="DrMemory" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\Dr. Memory\bin\drmemory.exe" />
+      <option name="PARAMETERS" value="-suppress C:\work\drmemory-suppress.txt -verbose 0 -prefix_style 2 -batch -brief -no_summary iconnect-test.exe --gtest_repeat=$Prompt$  --gtest_shuffle" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/dbilyk/.CLion12/system/cmake/generated/ecff83a2/ecff83a2/Debug/bin/" />
+    </exec>
+  </tool>
+  <tool name="CppCheck" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\Cppcheck\cppcheck.exe" />
+      <option name="PARAMETERS" value="--enable=all $FileDirRelativeToProjectRoot$\$FileName$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

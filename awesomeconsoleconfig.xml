@@ -1,0 +1,6 @@
+<application>
+  <component name="Awesome Console Config">
+    <option name="SPLIT_ON_LIMIT" value="true" />
+    <option name="LINE_MAX_LENGTH" value="2048" />
+  </component>
+</application>

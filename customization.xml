@@ -1,0 +1,16 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Tool_External Tools_DrMemory" is_action="true" action_type="1" position="20">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_CppCheck" is_action="true" action_type="1" position="21">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="Tool_External Tools_CppCheck" icon="$USER_HOME$/Pictures/icons/CppcheckPortable_128.png" />
+    <action id="Tool_External Tools_DrMemory" icon="$USER_HOME$/Pictures/icons/drmemory.png" />
+  </component>
+</application>
