@@ -3,6 +3,9 @@
   <CMakeCodeStyleSettings>
     <option name="FORCE_COMMANDS_CASE" value="0" />
   </CMakeCodeStyleSettings>
+  <MultiMarkdownCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MultiMarkdownCodeStyleSettings>
   <Objective-C>
     <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
     <option name="KEEP_STRUCTURES_IN_ONE_LINE" value="true" />
