@@ -4,7 +4,6 @@
     <option name="minGWHomePath" value="C:\MinGW" />
     <option name="specifiedCMakeExecutablePath" value="C:\Program Files (x86)\CMake\bin\cmake.exe" />
     <option name="specifiedGDBExecutablePath" value="C:\MinGW\bin\gdb.exe" />
-    <option name="useBundledCMake" value="false" />
     <option name="winEnvironment" value="MINGW" />
   </component>
   <component name="CppNewDialogSettings">
