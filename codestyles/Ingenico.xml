@@ -27,8 +27,6 @@
     <option name="CLASS_CONSTRUCTOR_INIT_LIST_NEW_LINE_BEFORE_COLON" value="1" />
     <option name="SUPERCLASS_LIST_BEFORE_COLON" value="0" />
     <option name="SPACE_BEFORE_TEMPLATE_DECLARATION_LT" value="true" />
-    <option name="SPACE_WITHIN_TEMPLATE_DECLARATION_LTGT" value="true" />
-    <option name="SPACE_WITHIN_TEMPLATE_CALL_LTGT" value="true" />
     <option name="SPACE_WITHIN_FUNCTION_DECLARATION_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_FUNCTION_CALL_PARENTHESES" value="true" />
     <option name="SPACE_BEFORE_INIT_LIST_COLON" value="false" />
