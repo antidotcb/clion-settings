@@ -16,7 +16,7 @@
     <option name="PLACES_MAP">
       <entry key="Default">
         <PlaceSettings>
-          <option name="SPLITTER_PROPORTION" value="0.33043477" />
+          <option name="SPLITTER_PROPORTION" value="0.6321739" />
         </PlaceSettings>
       </entry>
     </option>
@@ -34,7 +34,9 @@
         </PlaceSettings>
       </entry>
       <entry key="Default">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="SHOW_WHITESPACES" value="true" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
