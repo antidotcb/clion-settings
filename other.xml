@@ -6,6 +6,9 @@
     <option name="specifiedGDBExecutablePath" value="C:\MinGW\bin\gdb.exe" />
     <option name="winEnvironment" value="MINGW" />
   </component>
+  <component name="CppNewDialogSettings">
+    <option name="addNewFilesToProject" value="false" />
+  </component>
   <component name="ErrorReportConfigurable">
     <option name="ITN_LOGIN" value="" />
     <option name="ITN_PASSWORD_CRYPT" value="" />
