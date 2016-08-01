@@ -39,6 +39,7 @@
     <option name="FIELDS_SUFFIX" value="_" />
     <option name="GETTERS_PREFIX" value="get_" />
     <option name="SETTERS_PREFIX" value="set_" />
+    <option name="INTRODUCE_CONST_VARS" value="true" />
   </Objective-C>
   <Objective-C-extensions>
     <option name="GENERATE_INSTANCE_VARIABLES_FOR_PROPERTIES" value="ASK" />
